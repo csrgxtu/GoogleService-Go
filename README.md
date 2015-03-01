@@ -1,7 +1,7 @@
-# GoogleService-NodeJs
+# GoogleService-Go
 <center>![](./statics/images/logo11w.png)</center>
-## what is GoogleService-NodeJs?
-GoogleService-NodeJs is an project that enable Google Search Service available to third parties in NodeJs Programming Language.
+## what is GoogleService-Go?
+GoogleService-Go is an project that enable Google Search Service available to third parties in Go Programming Language.
 
 It works on HTTP Request, all you need to do is provide the url parameters and you will get the search result in Json format from Google Search.
 ## How to use it?
